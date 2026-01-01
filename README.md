@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/24403133/README.md)
 # Polymarket Watcher
 
 **AI-powered trading signals derived from prediction market data**
